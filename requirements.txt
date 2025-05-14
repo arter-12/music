@@ -32,7 +32,7 @@ MukeshAPI
 motor==3.6.0
 nekos.py
 opencv-python
-httpx==0.25.2
+httpx==0.28.1
 pretty-errors
 pydictionary==2.0.1
 pyfiglet
