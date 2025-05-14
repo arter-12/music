@@ -37,7 +37,7 @@ pretty-errors
 pydictionary==2.0.1
 pyfiglet
 psutil
-pillow==9.5.0
+pillow==11.2.1
 pykeyboard==0.1.5
 pymongo==4.9.2
 pynewtonmath==1.0.1
